@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "express": "^5.1.0",
+    "fs-extra": "^11.3.1",
     "mysql2": "^3.14.4",
+    "path": "^0.12.7",
     "undici": "^7.15.0"
   }
 }
